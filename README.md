@@ -19,8 +19,10 @@ My academic foundation lies in **mathematical statistics** and **data science me
 ---
 
 ## 📂 Works & Documents
-- 📑 Transcript, ranking certificate, and proof of double major  
-- 🌐 [Personal Website / Side Projects](https://your-website-link.com)  
+- 📑 [Transcript / ranking certificate](https://drive.google.com/file/d/1Zd1H86-yun-Mkg-eGglxe_6qTpLWMXYL/view?usp=share_link)
+- 📄 [proof of double major](https://drive.google.com/file/d/1K-Z-G7rx7-x2XWQNWK-7Xt7uvCaHIqlO/view?usp=share_link)
+- 📃 [Research Proposal](https://drive.google.com/file/d/1CXzRszaLRk2r8zyIEEan5DskWwU_irui/view?usp=share_link)
+- 🌐 [Personal Website / Side Projects](https://sites.google.com/g.nccu.edu.tw/111304019lin-cheng-you)  
 
 ---
 
