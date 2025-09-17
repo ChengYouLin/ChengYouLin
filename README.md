@@ -1,5 +1,6 @@
 # 👋 Hi, I'm Cheng-You Lin
 
+<!--
 🎓 **Education**  
 - National Chengchi University (NCCU), Department of Statistics  
 - Double Major: Bachelor Program in Artificial Intelligence Applications  
@@ -7,9 +8,10 @@
 - Certificate Programs: Big Data Analytics, FinTech Specialization  
 
 ---
+-->
 
 ## 🧑‍💻 About Me
-I am currently an undergraduate senior, double majoring in **Statistics** and the **Bachelor Program in Artificial Intelligence Applications**.  
+I am currently an undergraduate senior, double majoring in **Statistics** and the **Artificial Intelligence Applications** at NCCU. Also minors MIS at NCCU and IEEM at (NTHU).
 Throughout my studies, I have developed strong interests in **data science** and **artificial intelligence**.  
 
 My academic foundation lies in **mathematical statistics** and **data science methodologies**, and I am particularly interested in exploring **big data analytics, dimensionality reduction, and cross-disciplinary applications**. I aim to combine theoretical knowledge with practical insights to contribute to both academic research and industry practices.  
