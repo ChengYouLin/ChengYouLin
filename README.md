@@ -27,10 +27,10 @@ My academic foundation lies in **mathematical statistics** and **data science me
 ## 🛠️ Tech Stack
 
 ### Programming Languages  
-[![My Skills](https://skillicons.dev/icons?i=c,cpp,java,py,r,js,html,css,lua,d3,wasm)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=c,cpp,java,py,r,js,html,css,d3,lua)](https://skillicons.dev)
 
 ### Tools & Frameworks  
-[![My Tools](https://skillicons.dev/icons?i=vscode,eclipse,github,git,idea,latex,linux,maven,mysql,neovim,nodejs,spring,sklearn)](https://skillicons.dev)
+[![My Tools](https://skillicons.dev/icons?i=vscode,eclipse,idea,latex,maven,mysql,neovim,nodejs,spring,sklearn,git)](https://skillicons.dev)
 
 ---
 
