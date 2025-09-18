@@ -11,10 +11,11 @@
 -->
 
 ## 🧑‍💻 About Me
-I am currently an undergraduate senior, double majoring in **Statistics** and the **Artificial Intelligence Applications** at NCCU. Also minors MIS at NCCU and IEEM at (NTHU).
-Throughout my studies, I have developed strong interests in **data science** and **artificial intelligence**.  
+I am currently an undergraduate senior, double majoring in **Statistics** and the **Artificial Intelligence Applications** at NCCU. Also minors MIS at NCCU and IEEM at NTHU. I also pursue minors in Management Information Systems (MIS) at NCCU and Industrial Engineering and Engineering Management (IEEM) at NTHU.
 
 My academic foundation lies in **mathematical statistics** and **data science methodologies**, and I am particularly interested in exploring **big data analytics, dimensionality reduction, and cross-disciplinary applications**. I aim to combine theoretical knowledge with practical insights to contribute to both academic research and industry practices.  
+
+Throughout my studies, I have developed strong interests in **data science** and **artificial intelligence**.  
 
 ---
 
